@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    ;
+}
+
+
+.navbar-brand {
+    /* color: rgb(73, 226, 193); */
+    color: aquamarine;
+    ;
+}
+
+#searchCurrency {
+    margin-top: 0px;
+}
+
+.col-form-label {
+    align-self: center;
+}
+
